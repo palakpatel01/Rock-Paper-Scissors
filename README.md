@@ -52,7 +52,9 @@ rock-paper-scissors/
 ├── index.html        # HTML structure of the game
 ├── style.css         # CSS for styling the game
 ├── script.js         # JavaScript for game logic (if applicable)
-└── assets/           # Images, icons, and other assets
+└── images/           # Images used in the game
+└── Screenshots/      # Screenshots of game UI
+
 ```
 
 ## Technologies Used 💻
