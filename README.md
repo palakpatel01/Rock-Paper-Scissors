@@ -65,8 +65,8 @@ rock-paper-scissors/
 
 ![Game UI]
 
-(screenshots/Main.png) 
-(screenshots/YouWin.png)
+(Screenshots/Main.png)
+(Screenshots/YouWin.png)
 
 
 
