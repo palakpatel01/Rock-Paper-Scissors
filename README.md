@@ -64,11 +64,9 @@ rock-paper-scissors/
 ## Screenshots 📸
 
 ![Game UI](Screenshots/Main.png)
-
-
-
-
-![Win Screen](#)  
+![Game UI](Screenshots/YouLost.png)
+![Game UI](Screenshots/YouWin.png)
+![Win Screen](Screenshots/Hurray.png) 
 _A celebratory win screen with animations!_
 
 
