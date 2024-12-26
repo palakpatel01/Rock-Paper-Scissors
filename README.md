@@ -13,7 +13,7 @@ A fun and interactive web-based implementation of the classic Rock-Paper-Scissor
 
 ## Demo 🌐
 
-Check out the live demo []
+Check out the live demo [rock-paper-scissors-mu-opal.vercel.app]
 
 ## Getting Started 🚀
 
@@ -64,7 +64,8 @@ rock-paper-scissors/
 ## Screenshots 📸
 
 ![Game UI](#)  
-_A beautiful and intuitive game UI with real-time scoring._
+
+
 
 ![Win Screen](#)  
 _A celebratory win screen with animations!_
