@@ -63,7 +63,10 @@ rock-paper-scissors/
 
 ## Screenshots 📸
 
-![Game UI](screenshots/Main.png)  
+![Game UI]
+
+(screenshots/Main.png) 
+(screenshots/YouWin.png)
 
 
 
