@@ -13,7 +13,7 @@ A fun and interactive web-based implementation of the classic Rock-Paper-Scissor
 
 ## Demo 🌐
 
-Check out the live demo [rock-paper-scissors-mu-opal.vercel.app]
+[Check out the live demo](rock-paper-scissors-mu-opal.vercel.app)
 
 ## Getting Started 🚀
 
